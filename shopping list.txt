@@ -2,3 +2,5 @@ shopping list
 - milk
 - bread
 - bill
+- beer
+- more
